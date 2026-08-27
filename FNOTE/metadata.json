@@ -1,0 +1,6 @@
+{
+  "name": "Fnote Tsidk Spiritual Media",
+  "description": "Fnote Tsidk (ፍኖተ ጽድቅ) - Premier Ethiopian spiritual media portal featuring live broadcasts, liturgical hymns, orthodox theology, peace dialogues, and heritage archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
